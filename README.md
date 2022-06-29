@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=A175FFDF&lines=Hi+⚡+welcome+to+my+gitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=A175FFDF&lines=Hi+⚡+I+am+Frontend+developer)](https://git.io/typing-svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
