@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=A175FFDF&lines=Hi+⚡+I+am+Frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=550&color=A175FFDF&width=435&lines=Hi+%E2%9A%A1+I+am+Frontend+developer)](https://git.io/typing-svg)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>💻 Languages and Tools:</h3>
 <p align="left"> 
 
 <a href="https://www.w3.org/html/" target="_blank" style="text-decoration:none"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a> 
@@ -34,11 +34,16 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Трофеи -->
+<h2>🏆 Github Profile Trophy</h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Victoria-Rozhkova)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
 <!-- Статистика актуальной продолжительности ежедневных сессий на GitHub, самую длинную сессию за все время и суммарное количество вкладов в сообщество. [Конструктор](http://github-readme-streak-stats.herokuapp.com/demo/) -->
+
+<h2>🔥 Streak stats</h2>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Victoria-Rozhkova)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
