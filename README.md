@@ -49,7 +49,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/vikirozh" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Telegram-512.png" alt="telegram" height="40" width="40" style="margin-left: 10px" /></a>
-<a href="mailto:victoria.rozhkova@ro.ru" target="_blank"><img src="https://mpng.subpng.com/20180407/eye/kisspng-email-iphone-outlook-com-yahoo-mail-gmail-blue-technology-5ac886348320d1.0860473015230909965371.jpg" alt="mail" height="40" width="40" style="margin-left: 10px" /></a>
+<a href="mailto:victoria.rozhkova@ro.ru" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/9073/9073086.png" alt="mail" height="40" width="40" style="margin-left: 10px" /></a>
 
 
 
