@@ -14,8 +14,7 @@
 <a href="https://reactjs.org/" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
 <a href="https://sass-lang.com" target="_blank" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
-<a href="https://eslint.org/" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/></a> 
-<a href="https://webpack.js.org" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+<a href="https://eslint.org/" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 <a href="https://vite.dev/" target="_blank" style="text-decoration:none"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="vite" width="40" height="40"/>
 <a href="https://jestjs.io/" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 <a href="https://materializecss.com/" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" alt="materialize" width="40" height="40"/>
@@ -26,12 +25,12 @@
 <a href="https://storybook.js.org/" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40"/>
 <a href="https://tailwindcss.com/" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
 <a href="https://vuetifyjs.com/" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/>
-<a href="https://trello.com/ru" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40"/>
+<a href="https://trello.com/ru" target="_blank" style="text-decoration:none"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/>
 <a href="https://firebase.google.com/" target="_blank" style="text-decoration:none"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" style="text-decoration:none"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" style="text-decoration:none"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://ubuntu.ru/doku.php" target="_blank" style="text-decoration:none"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" style="text-decoration:none"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" style="text-decoration:none"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" style="text-decoration:none"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://about.gitlab.com/" target="_blank" style="text-decoration:none"> <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/ru-ru/youtrack/" target="_blank" style="text-decoration:none"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/YouTrack_icon.svg/1200px-YouTrack_icon.svg.png" alt="youtrack" width="40" height="40"/> </a>
@@ -46,7 +45,6 @@
 <p align="left">
 <a href="https://t.me/vikirozh" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Telegram-512.png" alt="telegram" height="40" width="40" style="margin-left: 10px" /></a>
 <a href="mailto:victoria.rozhkova@ro.ru" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/9073/9073086.png" alt="mail" height="40" width="40" style="margin-left: 10px" /></a>
-
 
 
 <!--
